@@ -17,7 +17,7 @@ This repository contains a comprehensive sentiment analysis project using both L
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Sentiment-prediction.git
+git clone https://github.com/Asnanp/Sentiment-prediction.git
 cd Sentiment-prediction
 pip install -r requirements.txt
 ```
@@ -63,4 +63,5 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 Acknowledgments
 Libraries: Scikit-learn, TensorFlow, Plotly, NLTK, Pandas, NumPy
+
 Dataset: https://www.kaggle.com/code/mesutssmn/sentiment-analysis-for-mental-health
